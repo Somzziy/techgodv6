@@ -4,20 +4,20 @@
 //Instagram: techgod143
 //Telegram: t.me/techgod143
 //GitHub: @techgod143
-//WhatsApp: +917466008456
+//WhatsApp: +2348145646877
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916378704507"
+global.ownernomer = "2348145646877"
 global.ownername = "AASHISH"
 global.ytname = "YT: SHADOW STARCORE"
 global.socialm = "GitHub: dark-tech-zone"
 global.location = "India, Delhi, city"
 
-global.ownernumber = '916378704507'  //creator number
+global.ownernumber = '2348145646877'  //creator number
 global.ownername = 'AASHISH' //owner name
 global.botname = 'AASHISH ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
